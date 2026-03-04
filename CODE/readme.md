@@ -1,1 +1,1 @@
-in this folder we are going to add our individual team members code files
+in this folder we added the ipynb sample file given by professor and we are going to add our individual team members code files
