@@ -1,0 +1,862 @@
+WEBVTT
+
+1
+00:00:02.140 --> 00:00:04.109
+Shiva Kumar Chary Valaboju: Yeah, you can start it, just record it.
+
+2
+00:00:04.320 --> 00:00:04.820
+Jennifer p: Yay!
+
+3
+00:00:04.820 --> 00:00:10.570
+jb2hj@mtmail.mtsu.edu: Yeah, so I was saying, I think the report is almost half done, I think.
+
+4
+00:00:10.710 --> 00:00:16.719
+jb2hj@mtmail.mtsu.edu: I'm not sure, I remember seeing only a few sections, needing to be added, but…
+
+5
+00:00:16.960 --> 00:00:18.729
+jb2hj@mtmail.mtsu.edu: Quite a lot of stuff was done.
+
+6
+00:00:18.940 --> 00:00:25.389
+jb2hj@mtmail.mtsu.edu: So… And also, I need to upload… update my GitHub file, by the way. I did, the…
+
+7
+00:00:25.520 --> 00:00:32.029
+jb2hj@mtmail.mtsu.edu: calendar comparison thing, but I haven't uploaded it yet. I'll do that tomorrow. Cleaning up everything.
+
+8
+00:00:33.250 --> 00:00:33.900
+Jennifer p: Okay.
+
+9
+00:00:35.360 --> 00:00:45.320
+Jennifer p: I'm struggling with trying to find, like, algorithmic bias. Like, I'm… you know what I mean? I feel like we've done a lot of, like, identifying the data and, like.
+
+10
+00:00:45.740 --> 00:00:58.389
+Jennifer p: you know what I mean? Just looking at the data and more of the data bias, but I'm… I try to run some, like, regressions and stuff like that, and I'm not seeing anything significant coming out of it.
+
+11
+00:00:58.790 --> 00:01:00.299
+Jennifer p: If that makes sense.
+
+12
+00:01:01.330 --> 00:01:05.740
+jb2hj@mtmail.mtsu.edu: Yeah, I haven't run any regression or anything yet, I just did…
+
+13
+00:01:05.840 --> 00:01:08.650
+jb2hj@mtmail.mtsu.edu: Visualizations, and that's kind of it.
+
+14
+00:01:09.610 --> 00:01:11.840
+jb2hj@mtmail.mtsu.edu: I'll try to do some tomorrow, though, not sure.
+
+15
+00:01:15.950 --> 00:01:20.069
+sukanya: Even me too, I just take the visualization, not in your training or anything.
+
+16
+00:01:20.520 --> 00:01:21.749
+sukanya: Thing Monday, though.
+
+17
+00:01:26.830 --> 00:01:33.320
+Jennifer p: Is anyone able to identify how to get the Ramsay County file?
+
+18
+00:01:33.480 --> 00:01:36.969
+Jennifer p: Like, I… I tried… for a while.
+
+19
+00:01:36.970 --> 00:01:47.930
+jb2hj@mtmail.mtsu.edu: Yeah, well, I… well, it says in the… according to what he said, it says that he provided the original data sources, he just said to look up those websites, and then…
+
+20
+00:01:48.490 --> 00:01:53.289
+jb2hj@mtmail.mtsu.edu: look it up there, or figure it out. I think that's what he said. Yeah, I think there's…
+
+21
+00:01:53.290 --> 00:01:58.920
+Jennifer p: And then I couldn't find it. Like, I found files with Ramsey County data, covenant data.
+
+22
+00:01:59.290 --> 00:02:03.739
+Jennifer p: But they didn't match, like, the variables that were in…
+
+23
+00:02:03.840 --> 00:02:09.909
+Jennifer p: That was used, you know what I mean? Like, they had that… that notebook that we used to create the Hennepin County one.
+
+24
+00:02:09.919 --> 00:02:10.259
+jb2hj@mtmail.mtsu.edu: Yeah.
+
+25
+00:02:10.259 --> 00:02:18.799
+Jennifer p: And I was going to… I started trying to make a Ramsey one, and the file that I found online, and the only file I could find.
+
+26
+00:02:18.799 --> 00:02:19.939
+jb2hj@mtmail.mtsu.edu: didn't have…
+
+27
+00:02:20.129 --> 00:02:23.809
+Jennifer p: the same data. It was, like, the covenant data.
+
+28
+00:02:24.369 --> 00:02:28.619
+Jennifer p: it was, like, completely different table. Like, completely different variables.
+
+29
+00:02:29.179 --> 00:02:30.789
+Jennifer p: Nothing matching on it, and I
+
+30
+00:02:31.290 --> 00:02:40.780
+Jennifer p: for a long time, on the internet, trying to, like, figure out where a file that would match the variables that we're looking for, and I couldn't find it.
+
+31
+00:02:41.420 --> 00:02:47.850
+jb2hj@mtmail.mtsu.edu: Well, I think… well, I didn't really find it either, so there were, like, 3 websites that he gave us, and I only found…
+
+32
+00:02:47.990 --> 00:02:49.570
+jb2hj@mtmail.mtsu.edu: Two of the…
+
+33
+00:02:49.820 --> 00:02:58.010
+jb2hj@mtmail.mtsu.edu: downloadable files on the websites, and I downloaded those. I just used those. I didn't, see the original Python file that he uploaded.
+
+34
+00:02:58.140 --> 00:03:03.709
+jb2hj@mtmail.mtsu.edu: Or the Jupyter Node before that he uploaded, where he makes the dataset. So I was like, I just did my own thing.
+
+35
+00:03:03.910 --> 00:03:05.509
+jb2hj@mtmail.mtsu.edu: I didn't refer to that.
+
+36
+00:03:06.090 --> 00:03:08.669
+jb2hj@mtmail.mtsu.edu: I have the data sets, all data sets.
+
+37
+00:03:08.670 --> 00:03:09.890
+sukanya: Like, I found it.
+
+38
+00:03:11.000 --> 00:03:12.670
+Jennifer p: For… for Ramsey?
+
+39
+00:03:12.910 --> 00:03:16.210
+sukanya: Hmm, the one he gave, the student notebook, right, for that.
+
+40
+00:03:18.590 --> 00:03:19.340
+jb2hj@mtmail.mtsu.edu: Oh, okay.
+
+41
+00:03:20.750 --> 00:03:28.180
+Jennifer p: So, so there's two different counties, like, the main one that he gave the notebook for and the dataset that's on D2L is for Hennepin County.
+
+42
+00:03:28.910 --> 00:03:37.049
+Jennifer p: Part of the project is comparing it with… with Ramsey County, and that's where I'm struggling to find the Ramsey County data that
+
+43
+00:03:37.250 --> 00:03:40.879
+Jennifer p: matches… The data that we're supposed to look at.
+
+44
+00:03:42.130 --> 00:03:57.480
+jb2hj@mtmail.mtsu.edu: I can upload it to GitHub tomorrow, but I'm not sure if that's the right one, because I just… I downloaded those files, and I did my own thing. I did not see the notebook file that he's uploaded on D2O. I did go through what he did, but I didn't… like, it didn't match, so I just did my own thing.
+
+45
+00:03:57.820 --> 00:04:02.839
+Jennifer p: Oh, okay. Well, if you did something with Ramsey, that's all I need. I mean, as long as we have something for Ramsey County, that's.
+
+46
+00:04:02.840 --> 00:04:08.490
+jb2hj@mtmail.mtsu.edu: Because it's kind of complicated, because I had to use, like, zip code and stuff to…
+
+47
+00:04:08.890 --> 00:04:15.440
+jb2hj@mtmail.mtsu.edu: It's kind of complicated. You can… I'll upload it tomorrow, and then you can check it out. If you don't understand, I'll just explain it.
+
+48
+00:04:15.620 --> 00:04:22.959
+jb2hj@mtmail.mtsu.edu: No, I mean, I don't want to really replicate what you did, as long as a group, someone did something on Ramsey County, that's totally cool. Oh, okay, okay.
+
+49
+00:04:23.570 --> 00:04:27.109
+jb2hj@mtmail.mtsu.edu: I mean, I try, I'm not sure if it's right or wrong, but I mean, we got something.
+
+50
+00:04:27.370 --> 00:04:28.170
+Jennifer p: Yeah.
+
+51
+00:04:28.660 --> 00:04:30.100
+jb2hj@mtmail.mtsu.edu: I'll upload it tomorrow morning.
+
+52
+00:04:30.100 --> 00:04:33.600
+Jennifer p: I'm like, I'm like, screw it. Maybe someone else has.
+
+53
+00:04:33.600 --> 00:04:39.529
+jb2hj@mtmail.mtsu.edu: It is… it was kinda… it was kinda annoying, I'm not gonna lie. It took me a lot of time to just get the data set.
+
+54
+00:04:40.200 --> 00:04:40.650
+Jennifer p: Okay.
+
+55
+00:04:40.650 --> 00:04:44.069
+jb2hj@mtmail.mtsu.edu: do the comparison. Well, I'll throw it tomorrow morning.
+
+56
+00:04:44.070 --> 00:04:46.930
+Jennifer p: Cool, cool, cool, cool. Awesome. Thank you for doing that.
+
+57
+00:04:46.930 --> 00:04:47.880
+jb2hj@mtmail.mtsu.edu: Yeah, no problem.
+
+58
+00:04:48.010 --> 00:04:52.889
+jb2hj@mtmail.mtsu.edu: And, I was gonna ask, are we doing the presentation, like, the…
+
+59
+00:04:53.020 --> 00:04:56.679
+jb2hj@mtmail.mtsu.edu: No, like we did last time, or do you just want to present from the report?
+
+60
+00:04:59.020 --> 00:05:02.779
+Jennifer p: I think, I mean, we should do at least a
+
+61
+00:05:03.020 --> 00:05:10.039
+Jennifer p: in my opinion, at least something basic to present, like, some structure to present from. I don't think we had to put…
+
+62
+00:05:10.340 --> 00:05:10.840
+jb2hj@mtmail.mtsu.edu: Okay.
+
+63
+00:05:10.840 --> 00:05:13.060
+Jennifer p: Make it too much flair in it, but, like.
+
+64
+00:05:13.060 --> 00:05:13.760
+jb2hj@mtmail.mtsu.edu: Okay.
+
+65
+00:05:13.760 --> 00:05:17.669
+Jennifer p: You know what I mean? Just kind of… just so that when we're presenting for the report, we have…
+
+66
+00:05:18.000 --> 00:05:18.370
+jb2hj@mtmail.mtsu.edu: Something…
+
+67
+00:05:18.370 --> 00:05:30.270
+Jennifer p: go off of for structure, but we should probably finish the report first to kind of know what we're… what exactly we want to… Yeah, I agree. What story we want to tell exactly, and then we can probably worry about that, but…
+
+68
+00:05:32.170 --> 00:05:40.569
+jb2hj@mtmail.mtsu.edu: So, I wrote the… I'm not sure… I didn't read the report. I wrote the introduction and the second part. I'm not sure if we used those or not, but…
+
+69
+00:05:40.800 --> 00:05:41.629
+jb2hj@mtmail.mtsu.edu: They were just there.
+
+70
+00:05:41.630 --> 00:05:46.919
+Jennifer p: I found it kind of toward the end. I just structured it, like, I just, I copied, you know, I cut it and pasted it in.
+
+71
+00:05:46.920 --> 00:05:47.560
+jb2hj@mtmail.mtsu.edu: Okay.
+
+72
+00:05:47.560 --> 00:06:01.399
+Jennifer p: and the actual fields, but I found what you wrote, but I just wanted to put some… start some structure in it, and so I just kind of moved things around to give it some structure, but of course, whatever I put is not necessarily has to be a final…
+
+73
+00:06:01.400 --> 00:06:10.460
+jb2hj@mtmail.mtsu.edu: Yeah, I mean, it kind of looks good for the first few sections. I think the last two, we need to add some stuff, because we… well, I mean, we haven't really added anything yet.
+
+74
+00:06:10.570 --> 00:06:14.000
+jb2hj@mtmail.mtsu.edu: So we just gotta do that, and I think the report should be good.
+
+75
+00:06:17.630 --> 00:06:21.870
+jb2hj@mtmail.mtsu.edu: I haven't read it yet, though I still have to read it. I'll read it and let you know.
+
+76
+00:06:22.220 --> 00:06:24.100
+Jennifer p: Also, heads up.
+
+77
+00:06:24.260 --> 00:06:31.680
+jb2hj@mtmail.mtsu.edu: So, on Thursday, I have a visa appointment, so I may or may not be there at class. I will tell the professor, too, about it, but…
+
+78
+00:06:31.680 --> 00:06:32.010
+Jennifer p: Okay.
+
+79
+00:06:32.010 --> 00:06:33.369
+jb2hj@mtmail.mtsu.edu: Just… just a heads up.
+
+80
+00:06:34.110 --> 00:06:34.760
+Jennifer p: Okay.
+
+81
+00:06:35.070 --> 00:06:37.259
+jb2hj@mtmail.mtsu.edu: I had to go to Nashville for a visa appointment.
+
+82
+00:06:38.530 --> 00:06:39.829
+Jennifer p: Good luck!
+
+83
+00:06:44.370 --> 00:06:45.770
+jb2hj@mtmail.mtsu.edu: Mary, what? Did you…
+
+84
+00:06:45.770 --> 00:06:46.850
+Jennifer p: I said, I said good luck.
+
+85
+00:06:47.100 --> 00:06:49.820
+jb2hj@mtmail.mtsu.edu: Oh, okay, okay, okay, thank you. I was like, wait, I…
+
+86
+00:06:50.360 --> 00:06:53.990
+jb2hj@mtmail.mtsu.edu: I heard something, but I didn't really hear it. Yeah, thank you.
+
+87
+00:06:56.110 --> 00:06:57.269
+jb2hj@mtmail.mtsu.edu: Is that what you're saying?
+
+88
+00:06:58.370 --> 00:07:05.909
+Jennifer p: I was gonna say, what should be our, like, next steps from here? Like, takeaways of what… what we need to come back with?
+
+89
+00:07:06.730 --> 00:07:11.819
+jb2hj@mtmail.mtsu.edu: I think… We should finish the report first. That's almost done, and then…
+
+90
+00:07:11.820 --> 00:07:12.260
+Jennifer p: weekend.
+
+91
+00:07:12.260 --> 00:07:14.760
+jb2hj@mtmail.mtsu.edu: And figure out the next thing.
+
+92
+00:07:14.870 --> 00:07:17.310
+jb2hj@mtmail.mtsu.edu: So, I think we should set a deadline for the report.
+
+93
+00:07:17.840 --> 00:07:23.040
+jb2hj@mtmail.mtsu.edu: Right. Which, I think everyone's… I think everyone's done with the code, I… I'm… Hope so.
+
+94
+00:07:23.870 --> 00:07:25.250
+jb2hj@mtmail.mtsu.edu: Or I think so. I don't.
+
+95
+00:07:25.250 --> 00:07:34.740
+Jennifer p: I feel like I did a lot of code, but like I said in the start, like, I don't think I came up with any big thing with the algorithmic bias part of it, just more of a…
+
+96
+00:07:35.060 --> 00:07:48.980
+Jennifer p: I mean, I threw something on the report on it, but basically all I threw on the report, and we can take it off if someone else finds something significant, I just basically said, like, hey, I ran some regressions and didn't find anything of value.
+
+97
+00:07:48.980 --> 00:07:50.939
+Shiva Kumar Chary Valaboju: I have a quick question, like.
+
+98
+00:07:51.420 --> 00:07:54.610
+Shiva Kumar Chary Valaboju: Whenever, if you see in the…
+
+99
+00:07:55.690 --> 00:07:57.249
+Shiva Kumar Chary Valaboju: Let me just pull out that.
+
+100
+00:07:57.540 --> 00:08:03.689
+Shiva Kumar Chary Valaboju: So, did he say to do analysis and buy our data analysis on Ramsey, too, or…
+
+101
+00:08:03.840 --> 00:08:06.060
+Shiva Kumar Chary Valaboju: just do it in Ramsey extension.
+
+102
+00:08:08.960 --> 00:08:11.340
+Jennifer p: Yeah, there's something called a Ramsey extension, yeah.
+
+103
+00:08:11.340 --> 00:08:21.620
+Shiva Kumar Chary Valaboju: He said us to do Ramsey County Extension, but he didn't set us to do the algorithm or data bias analysis on this thing.
+
+104
+00:08:23.860 --> 00:08:24.760
+jb2hj@mtmail.mtsu.edu: I mean, well…
+
+105
+00:08:24.760 --> 00:08:30.399
+Jennifer p: I would assume at least writing something about what, you know, some small snippet of what we found with it.
+
+106
+00:08:30.400 --> 00:08:32.140
+jb2hj@mtmail.mtsu.edu: Yeah, because, I mean, expect…
+
+107
+00:08:32.140 --> 00:08:35.429
+Shiva Kumar Chary Valaboju: Oh, yeah. Go ahead, go ahead, go ahead, go ahead.
+
+108
+00:08:35.429 --> 00:08:36.509
+jb2hj@mtmail.mtsu.edu: Hey, Zaga, go ahead.
+
+109
+00:08:36.990 --> 00:08:52.120
+Shiva Kumar Chary Valaboju: So, like, what I'm thinking is, like, the CSV data set that he gave from the ChatGPT or Cloudy, he already, combined all the datasets that we have, that… which are actually… we have, and he gave us the combined dataset, merging data set, so…
+
+110
+00:08:52.190 --> 00:09:01.529
+Shiva Kumar Chary Valaboju: That's what I'm thinking, we need to work on that dataset to find the data bias analysis and algorithm bias analysis, and do some predictions on it.
+
+111
+00:09:02.810 --> 00:09:05.030
+Shiva Kumar Chary Valaboju: Duan…
+
+112
+00:09:05.710 --> 00:09:20.660
+Shiva Kumar Chary Valaboju: extension for that with the Ramsey Country data set, like, extension, so that's what I did. I just gone through the data set, I have done some media analysis, I've done some data bias analysis, and I have done some algorithm bias analysis.
+
+113
+00:09:20.850 --> 00:09:24.369
+Shiva Kumar Chary Valaboju: And I've made some predictions, then I said that
+
+114
+00:09:25.040 --> 00:09:27.300
+Shiva Kumar Chary Valaboju: We can use the whole process.
+
+115
+00:09:27.540 --> 00:09:45.400
+Shiva Kumar Chary Valaboju: for the Ramsey Country dataset, because I haven't found the dataset too, so… I just made a Ramsey Country extension saying that, if we have the same dataset looking like what we have the professor given, that's what is gonna happen. I just made some notes on it.
+
+116
+00:09:46.090 --> 00:09:53.910
+Shiva Kumar Chary Valaboju: If… if we have something comparison, so that's what I was thinking, and that's what I understood.
+
+117
+00:09:54.630 --> 00:09:58.110
+Shiva Kumar Chary Valaboju: So, like… Is that all we are gonna do the same, or…
+
+118
+00:09:58.330 --> 00:10:03.459
+Shiva Kumar Chary Valaboju: We need to do the… everything on the dataset of the Ramsey country extension, too.
+
+119
+00:10:04.630 --> 00:10:08.120
+jb2hj@mtmail.mtsu.edu: I mean, I would assume that he wants us to do…
+
+120
+00:10:08.640 --> 00:10:12.030
+jb2hj@mtmail.mtsu.edu: Like, because in the Rotes County comparison.
+
+121
+00:10:12.210 --> 00:10:23.290
+jb2hj@mtmail.mtsu.edu: So, I'm guessing it's, like, doing the same thing in the Ramsey County, and then comparing it with the… with the Hennepin County. So, I'm assuming that you gotta… you have to do everything what we did.
+
+122
+00:10:24.100 --> 00:10:25.600
+jb2hj@mtmail.mtsu.edu: For Hennepin.
+
+123
+00:10:26.780 --> 00:10:27.680
+Shiva Kumar Chary Valaboju: Okay.
+
+124
+00:10:28.050 --> 00:10:33.840
+jb2hj@mtmail.mtsu.edu: In the instructions, I know it says extension, but then in the report, it says county comparison.
+
+125
+00:10:33.950 --> 00:10:36.770
+jb2hj@mtmail.mtsu.edu: In one of the sections. I think it's the second and last one.
+
+126
+00:10:37.210 --> 00:10:37.760
+Shiva Kumar Chary Valaboju: Huh.
+
+127
+00:10:37.760 --> 00:10:42.079
+jb2hj@mtmail.mtsu.edu: So, I'm not sure what he wants us to do, but I'm guessing this is what…
+
+128
+00:10:44.080 --> 00:10:48.800
+Shiva Kumar Chary Valaboju: So, like, if you have that dataset, you can just upload it, we can also work on it.
+
+129
+00:10:49.470 --> 00:11:03.149
+jb2hj@mtmail.mtsu.edu: I also… okay, I'll upload it, y'all can check if it's the right one or not, because frankly, I think… I found one of the two files, but I think one is the same one that he used in the notebook that he uploaded.
+
+130
+00:11:03.260 --> 00:11:07.490
+jb2hj@mtmail.mtsu.edu: So, I'll upload both of them, and then y'all can check it out, and see if it's a…
+
+131
+00:11:08.260 --> 00:11:10.980
+Shiva Kumar Chary Valaboju: So did you upload at the dataset?
+
+132
+00:11:11.480 --> 00:11:16.570
+jb2hj@mtmail.mtsu.edu: I'll do it probably tomorrow morning, or I'll try and do it now, if y'all want.
+
+133
+00:11:18.020 --> 00:11:18.950
+Shiva Kumar Chary Valaboju: Okay.
+
+134
+00:11:19.640 --> 00:11:23.159
+Jennifer p: For my part, there's no rush. I'm not planning to do any…
+
+135
+00:11:23.370 --> 00:11:30.839
+Jennifer p: coding or investigation further tonight, because I have a really bad headache, so… for me, if you want to wake up tomorrow, that's fine.
+
+136
+00:11:31.920 --> 00:11:35.440
+jb2hj@mtmail.mtsu.edu: I'll just do it tomorrow, because, yeah, I was about to go to sleep.
+
+137
+00:11:37.750 --> 00:11:38.389
+Shiva Kumar Chary Valaboju: It's okay.
+
+138
+00:11:38.390 --> 00:11:45.030
+jb2hj@mtmail.mtsu.edu: Well, if y'all… okay. Okay, I'll do it tomorrow morning at 10 or 11, so y'all can check, y'all can check it out.
+
+139
+00:11:46.910 --> 00:11:52.530
+jb2hj@mtmail.mtsu.edu: So, what is… what should we put the deadline as for the report?
+
+140
+00:11:55.770 --> 00:11:56.300
+sukanya: Oops.
+
+141
+00:11:57.910 --> 00:12:00.060
+jb2hj@mtmail.mtsu.edu: When do y'all want to meet next, before the class?
+
+142
+00:12:01.150 --> 00:12:02.510
+jb2hj@mtmail.mtsu.edu: I'll put it that way.
+
+143
+00:12:06.340 --> 00:12:08.550
+Jennifer p: Maybe Monday night? Just an idea?
+
+144
+00:12:09.330 --> 00:12:16.069
+jb2hj@mtmail.mtsu.edu: Yeah, so I'm fine with Monday night. We got 3 days, you know, I can check out the notebooks and everything.
+
+145
+00:12:17.760 --> 00:12:20.640
+Jennifer p: But what are… like, who's gonna do what between now and then?
+
+146
+00:12:21.960 --> 00:12:28.340
+jb2hj@mtmail.mtsu.edu: So… Okay. Yeah, we gotta figure that out.
+
+147
+00:12:30.290 --> 00:12:37.890
+Jennifer p: I feel like, I don't know, the thing… I mean, group projects are kind of challenging sometimes, because it's all like, everyone has.
+
+148
+00:12:37.890 --> 00:12:38.480
+jb2hj@mtmail.mtsu.edu: I know, right?
+
+149
+00:12:38.480 --> 00:12:46.240
+Jennifer p: You know what I mean? Like, I don't really know what to do without stepping on people's toes and stuff like that, and…
+
+150
+00:12:46.240 --> 00:12:46.690
+jb2hj@mtmail.mtsu.edu: Exactly.
+
+151
+00:12:46.690 --> 00:13:05.199
+Jennifer p: I put a lot in there, but it might not be aligned with what everyone else… and I didn't really put… you know, it's not like I did a finished project or anything like that. I just… I just kind of dropped some things in there for starters, but I don't… I don't know… I don't know what to add.
+
+152
+00:13:05.200 --> 00:13:08.170
+jb2hj@mtmail.mtsu.edu: So, what do y'all want to do on your side?
+
+153
+00:13:09.040 --> 00:13:09.750
+jb2hj@mtmail.mtsu.edu: Bye.
+
+154
+00:13:11.810 --> 00:13:17.330
+Jennifer p: I wouldn't mind, like, cleaning up some stuff in the report once we get some more, like.
+
+155
+00:13:18.120 --> 00:13:18.550
+jb2hj@mtmail.mtsu.edu: Okay.
+
+156
+00:13:18.550 --> 00:13:20.089
+Jennifer p: formalized, like.
+
+157
+00:13:21.710 --> 00:13:26.830
+Jennifer p: conclusions of what we found, you know what I mean? Because I feel like we have a lot of images, and like…
+
+158
+00:13:27.030 --> 00:13:43.659
+Jennifer p: like, hey, we found this, and this, and this, but I don't… we can maybe somehow tie it all together with some conclusions, and like I… like I said, I don't… I don't know what to say about the algorithmic bias one, because that's where I struggle to find any… any significant.
+
+159
+00:13:44.120 --> 00:13:44.530
+jb2hj@mtmail.mtsu.edu: Okay.
+
+160
+00:13:44.530 --> 00:13:46.050
+Jennifer p: endings, but…
+
+161
+00:13:46.050 --> 00:13:46.550
+jb2hj@mtmail.mtsu.edu: Whatever.
+
+162
+00:13:46.550 --> 00:13:48.640
+Jennifer p: What about significant findings that they found.
+
+163
+00:13:48.840 --> 00:13:59.600
+Jennifer p: for algorithmic bias. I think maybe my brain is not really comprehending the difference between the two, but most of it that I've seen is more, like, identifying and digging in to the.
+
+164
+00:13:59.600 --> 00:14:00.140
+jb2hj@mtmail.mtsu.edu: Yeah.
+
+165
+00:14:00.140 --> 00:14:03.709
+Jennifer p: the set itself… And more of a data bias, but…
+
+166
+00:14:04.400 --> 00:14:07.910
+Jennifer p: I don't know. I don't really know how the algorithm. I'm kinda…
+
+167
+00:14:07.910 --> 00:14:13.370
+jb2hj@mtmail.mtsu.edu: I'm kind of confused, too, between the two, but I think… well, I'll see. I got 2 days to…
+
+168
+00:14:14.080 --> 00:14:20.039
+jb2hj@mtmail.mtsu.edu: I guess, learn, so… What about, Shiva and Divya?
+
+169
+00:14:20.240 --> 00:14:21.849
+jb2hj@mtmail.mtsu.edu: What do you guys wanna do?
+
+170
+00:14:21.950 --> 00:14:23.010
+jb2hj@mtmail.mtsu.edu: On the report.
+
+171
+00:14:25.060 --> 00:14:28.139
+jb2hj@mtmail.mtsu.edu: Or what roles do y'all want to do till Monday night?
+
+172
+00:14:29.850 --> 00:14:31.530
+Shiva Kumar Chary Valaboju: It doesn't matter if you…
+
+173
+00:14:31.530 --> 00:14:32.650
+sukanya: Yeah.
+
+174
+00:14:32.650 --> 00:14:34.450
+Shiva Kumar Chary Valaboju: We'll do that, like…
+
+175
+00:14:34.450 --> 00:14:36.559
+sukanya: I don't think it's fine for me to…
+
+176
+00:14:36.790 --> 00:14:43.629
+jb2hj@mtmail.mtsu.edu: So, I was thinking, for me, I was just gonna add a couple stuff in the report.
+
+177
+00:14:43.930 --> 00:14:45.070
+sukanya: And…
+
+178
+00:14:45.430 --> 00:14:53.670
+jb2hj@mtmail.mtsu.edu: Well, maybe Jennifer and Vivya can figure out what to keep in and what, remove it, or cleaning up, basically, like you said, Jennifer.
+
+179
+00:14:53.670 --> 00:14:54.710
+sukanya: Yeah, yeah.
+
+180
+00:14:54.710 --> 00:14:55.030
+jb2hj@mtmail.mtsu.edu: And…
+
+181
+00:14:55.030 --> 00:14:55.649
+sukanya: That's weird.
+
+182
+00:14:55.960 --> 00:15:00.400
+jb2hj@mtmail.mtsu.edu: Maybe add some stuff, if y'all want to, on your side, or something like that.
+
+183
+00:15:00.400 --> 00:15:07.269
+Jennifer p: kind of, like, tying it together type of more, like, you know, looking at what we all got, and we're like, okay, what should we say exactly? You know what I mean?
+
+184
+00:15:07.270 --> 00:15:07.730
+jb2hj@mtmail.mtsu.edu: Yeah.
+
+185
+00:15:07.730 --> 00:15:21.760
+Jennifer p: But it's okay to just, you know, add some things in there. Even if you don't feel like, oh, I don't know if this belongs in report, we can… we can… that's why I put some things in there. I'm like, I don't know if we want to keep this or not, but, we can… we can always trim it down.
+
+186
+00:15:21.760 --> 00:15:29.629
+jb2hj@mtmail.mtsu.edu: Yeah, honestly, just do… just do it, because as long as it's within 5 pages. I don't think there's a wrong answer for this, to be honest.
+
+187
+00:15:30.810 --> 00:15:34.169
+jb2hj@mtmail.mtsu.edu: If y'all think it's relevant, y'all can add it in there. And…
+
+188
+00:15:34.660 --> 00:15:39.769
+jb2hj@mtmail.mtsu.edu: Shiva, maybe you can add some to the report, too, and then we can make the presentation.
+
+189
+00:15:40.190 --> 00:15:40.900
+Shiva Kumar Chary Valaboju: Okay.
+
+190
+00:15:41.560 --> 00:15:43.129
+jb2hj@mtmail.mtsu.edu: If that sounds good for everyone.
+
+191
+00:15:44.010 --> 00:15:44.860
+sukanya: Okay.
+
+192
+00:15:45.100 --> 00:15:48.070
+sukanya: So, or we're meeting at, like, Monday night, right?
+
+193
+00:15:48.270 --> 00:15:48.680
+jb2hj@mtmail.mtsu.edu: Yeah.
+
+194
+00:15:49.380 --> 00:15:52.900
+sukanya: I'm busy till 10.30, like, as usual, so I have a.
+
+195
+00:15:52.900 --> 00:15:53.350
+jb2hj@mtmail.mtsu.edu: Shift.
+
+196
+00:15:53.350 --> 00:15:55.999
+sukanya: Is it okay for everyone?
+
+197
+00:15:56.000 --> 00:15:58.800
+jb2hj@mtmail.mtsu.edu: Alright, that's fine by me, if everyone's okay.
+
+198
+00:16:00.420 --> 00:16:01.299
+sukanya: It's okay? Okay.
+
+199
+00:16:01.840 --> 00:16:03.549
+jb2hj@mtmail.mtsu.edu: So, 10.30, Monday?
+
+200
+00:16:03.850 --> 00:16:06.650
+sukanya: Yeah, after 10.30, 10.45, or something like that.
+
+201
+00:16:06.980 --> 00:16:11.229
+jb2hj@mtmail.mtsu.edu: Okay, so I'll try and add some to the report tomorrow, so…
+
+202
+00:16:11.230 --> 00:16:11.600
+Jennifer p: Okay.
+
+203
+00:16:11.600 --> 00:16:12.320
+jb2hj@mtmail.mtsu.edu: I can…
+
+204
+00:16:12.360 --> 00:16:13.689
+Shiva Kumar Chary Valaboju: Y'all can work on it.
+
+205
+00:16:13.910 --> 00:16:15.030
+jb2hj@mtmail.mtsu.edu: Okay, okay.
+
+206
+00:16:16.100 --> 00:16:17.990
+jb2hj@mtmail.mtsu.edu: Alright, I guess this is it.
+
+207
+00:16:18.170 --> 00:16:21.029
+jb2hj@mtmail.mtsu.edu: Or, does anyone else have anything to say?
+
+208
+00:16:22.760 --> 00:16:24.020
+sukanya: I think that's it.
+
+209
+00:16:24.590 --> 00:16:29.540
+Jennifer p: I'm all good, thanks for having a productive meeting, everyone.
+
+210
+00:16:29.540 --> 00:16:36.110
+jb2hj@mtmail.mtsu.edu: Yeah… Alright, I think this is it, so, well, good night.
+
+211
+00:16:36.210 --> 00:16:38.879
+Jennifer p: Everybody. Alright, have a good rest of your weekend.
+
+212
+00:16:38.880 --> 00:16:40.589
+jb2hj@mtmail.mtsu.edu: Yep, you as well.
+
+213
+00:16:40.590 --> 00:16:41.410
+Jennifer p: Bye-bye.
+
+214
+00:16:41.410 --> 00:16:41.890
+jb2hj@mtmail.mtsu.edu: Bye.
+
+215
+00:16:41.890 --> 00:16:42.560
+sukanya: Bye.
+

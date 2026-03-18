@@ -1,0 +1,1362 @@
+WEBVTT
+
+1
+00:00:01.050 --> 00:00:01.970
+Shiva Kumar Chary Valaboju: Yeah.
+
+2
+00:00:02.530 --> 00:00:05.640
+Shiva Kumar Chary Valaboju: Yep, yeah, I just started the recording, so…
+
+3
+00:00:06.530 --> 00:00:11.320
+Shiva Kumar Chary Valaboju: So, if you guys have gone through what I've done, Select…
+
+4
+00:00:11.640 --> 00:00:19.130
+Shiva Kumar Chary Valaboju: I just don't mind using the, the final report that you have just made, but… like…
+
+5
+00:00:19.320 --> 00:00:23.979
+Shiva Kumar Chary Valaboju: I just gave the requirements of the professors what
+
+6
+00:00:24.190 --> 00:00:28.480
+Shiva Kumar Chary Valaboju: he gave to the AI, and I just asked it, so…
+
+7
+00:00:29.250 --> 00:00:35.049
+Shiva Kumar Chary Valaboju: I don't think so, like, the appendix or something, is it all required? I don't…
+
+8
+00:00:35.160 --> 00:00:37.689
+Shiva Kumar Chary Valaboju: Thing, like, it's gonna be, like, a more…
+
+9
+00:00:37.790 --> 00:00:40.149
+Shiva Kumar Chary Valaboju: thing. That's what I'm thinking, but…
+
+10
+00:00:40.910 --> 00:00:45.979
+Shiva Kumar Chary Valaboju: If you guys are okay, I'm okay with that. We can go ahead with that. Doesn't matter.
+
+11
+00:00:46.690 --> 00:00:55.000
+Shiva Kumar Chary Valaboju: So it's all up to you guys, so… I just want to make the report simple, and we can use the graphs in the visualizations, or everything in the presentation.
+
+12
+00:00:57.350 --> 00:01:02.759
+Shiva Kumar Chary Valaboju: Because… He want us to do, like, to do the analysis part, or…
+
+13
+00:01:02.900 --> 00:01:09.690
+Shiva Kumar Chary Valaboju: The relational part in the report, so… That's what… I just did so.
+
+14
+00:01:10.090 --> 00:01:24.159
+Jennifer p: Right. By the way, there are some things in your report that I was really intrigued with, so I just wanted to just kind of give you some kudos, because, I mean, you made some interesting points, kind of.
+
+15
+00:01:25.000 --> 00:01:25.670
+Shiva Kumar Chary Valaboju: Oh, no.
+
+16
+00:01:25.670 --> 00:01:29.590
+Jennifer p: points, like the, like the GI Bill and things like that, that.
+
+17
+00:01:29.590 --> 00:01:34.420
+Shiva Kumar Chary Valaboju: Yeah, because I just used AI to exploit the data first, because…
+
+18
+00:01:34.700 --> 00:01:48.649
+Shiva Kumar Chary Valaboju: Actually, I was very confused, like, I don't think so, the data said that what we are doing is, like, not up to the professor's point, so… and I've just gone through the review of our previous report, like.
+
+19
+00:01:48.650 --> 00:02:04.600
+Shiva Kumar Chary Valaboju: he just point out some… he said that the plots that we have been to is not the good plot, though. He said that the good plots that we have to… he said that it's not even the good, and he said that you haven't done the outliers or something. He just looked… all the detailed things, so… I just, like…
+
+20
+00:02:04.600 --> 00:02:18.989
+Shiva Kumar Chary Valaboju: the main thing that I've done is, like, I've just gone through the data set clearly, like, what actually the data set is, and I've just gone through all the terminology, so I think the professor's is meant to do
+
+21
+00:02:19.020 --> 00:02:25.740
+Shiva Kumar Chary Valaboju: the stuff, like, what's actually in the dataset, and, what you want to do as so. I just…
+
+22
+00:02:25.870 --> 00:02:37.300
+Shiva Kumar Chary Valaboju: I haven't done this alone, so I've just used AI for the analysis part, and I have done the coding for my previous courses. We have gone through this stuff, so I just use those.
+
+23
+00:02:37.400 --> 00:02:50.880
+Shiva Kumar Chary Valaboju: And he just wants us the analysis, like, what's the metrics is, what's the Ramsey is going to say, and what's the, hempin, the merged data set that you have already given to us, so I just used Jay's,
+
+24
+00:02:51.370 --> 00:02:58.249
+Shiva Kumar Chary Valaboju: data set, and I have found one dataset in Google, like, I just say to Google that, I just want some…
+
+25
+00:02:58.370 --> 00:03:02.270
+Shiva Kumar Chary Valaboju: a Ramsey data set, so it gave me a link, and just, I've gone through that.
+
+26
+00:03:02.500 --> 00:03:06.779
+Shiva Kumar Chary Valaboju: So, I just combined all the, things
+
+27
+00:03:06.950 --> 00:03:12.390
+Shiva Kumar Chary Valaboju: So I just found that, we need to include these things, so… That's why.
+
+28
+00:03:12.390 --> 00:03:18.359
+Jennifer p: I'm sorry, I just want to clarify something, because you keep bringing up AI. Did AI write that report, or did you write the report?
+
+29
+00:03:18.360 --> 00:03:28.940
+Shiva Kumar Chary Valaboju: No, actually, the report is done by me. For the, dataset analysis and everything, I just used AI to get to, like, as you said, some terminologies that have been used in the report.
+
+30
+00:03:30.000 --> 00:03:39.810
+Shiva Kumar Chary Valaboju: Yeah, those are actually… I used AI to, get to know about the dataset properly, so… I've just went deep dive into the dataset with AI.
+
+31
+00:03:40.530 --> 00:03:41.340
+Jennifer p: Okay.
+
+32
+00:03:41.340 --> 00:03:42.500
+Jay Beladiya: I think he means.
+
+33
+00:03:42.500 --> 00:03:42.950
+Shiva Kumar Chary Valaboju: They're done.
+
+34
+00:03:42.950 --> 00:03:44.179
+Jay Beladiya: playing with AI.
+
+35
+00:03:44.500 --> 00:03:45.210
+Jay Beladiya: Right?
+
+36
+00:03:46.100 --> 00:03:48.159
+Shiva Kumar Chary Valaboju: I mean, only the exploration of data set.
+
+37
+00:03:48.160 --> 00:03:51.909
+Jay Beladiya: Yeah, yeah, but, I mean, yeah, that's what you mean by data exploration, like.
+
+38
+00:03:51.910 --> 00:04:00.339
+Shiva Kumar Chary Valaboju: Yeah, for the analysis I've done, and I just had my own analysis in the, that data bias, or algorithm bias, so…
+
+39
+00:04:01.000 --> 00:04:01.970
+Shiva Kumar Chary Valaboju: Yeah…
+
+40
+00:04:03.940 --> 00:04:16.960
+Jay Beladiya: Yeah, like I said, I think now we can, from the first, report, we can, keep the introduction, and then the rest of it, we can, add, Shiva's… from Shiva's report.
+
+41
+00:04:17.410 --> 00:04:20.800
+Jay Beladiya: It's kind of more detailed and has more interesting points in it.
+
+42
+00:04:22.360 --> 00:04:36.549
+Jennifer p: Yeah, and I think it, especially with the analysis with some of your models that you built actually came out with, that was… in our last meeting, I was kind of concerned, because I'm like, I'm not really finding anything to… as far as, like, the algorithm bias, and I still…
+
+43
+00:04:36.550 --> 00:04:36.900
+Jay Beladiya: I'm…
+
+44
+00:04:36.900 --> 00:04:52.630
+Jennifer p: writing, with the algorithm in my eyes, I'm like, I still don't really know what to write, but I feel like you came up with some ideas that make sense to put there. Like, results, like, you got results for that section, so I was also impressed with that, so good work.
+
+45
+00:04:52.630 --> 00:04:58.229
+Jay Beladiya: Yeah, I'm still kind of confused with the… with the bias part, with the data set. I don't… I don't… I'm…
+
+46
+00:04:58.420 --> 00:05:02.959
+Jay Beladiya: started coding, but I was like, There's nothing to do here.
+
+47
+00:05:03.530 --> 00:05:04.120
+Jennifer p: Hmm…
+
+48
+00:05:04.390 --> 00:05:09.900
+Jay Beladiya: So I'll probably have to… look it up on Google or something, again.
+
+49
+00:05:09.900 --> 00:05:21.640
+Shiva Kumar Chary Valaboju: The thing is, actually, I just… I just made a random guess, like, actually, I… like, if we are focusing on visualization, I think we are doing the wrong thing, because,
+
+50
+00:05:21.840 --> 00:05:34.050
+Shiva Kumar Chary Valaboju: He just had a group project on visualization, so I think he's not on focus on those, but he just wants to do some, different things than our last project, so I think he's just focusing on the…
+
+51
+00:05:34.170 --> 00:05:51.890
+Shiva Kumar Chary Valaboju: like, the bias analysis, what really he wants to do us, so… that's what I mean, like, if we, like, want to focus on some graphs, we'll just keep some, because we'll let him know that we have done so many graphs, but we'll just keep some limited graph, because he just don't want to keep any graphs. That's what I mean.
+
+52
+00:05:51.890 --> 00:05:54.609
+Jay Beladiya: Yeah, I think… I think that's a good idea, yeah.
+
+53
+00:05:54.610 --> 00:05:55.560
+Jennifer p: Good point.
+
+54
+00:05:55.560 --> 00:06:02.170
+Shiva Kumar Chary Valaboju: Because on the visualizations, he may say that, that's what I don't want to look. That's a simple answer, maybe he says.
+
+55
+00:06:03.080 --> 00:06:04.070
+Shiva Kumar Chary Valaboju: Yeah, so…
+
+56
+00:06:04.620 --> 00:06:06.139
+Jay Beladiya: Yeah, good idea. I think…
+
+57
+00:06:06.140 --> 00:06:07.739
+Jennifer p: Good point, I'm not blowing down.
+
+58
+00:06:08.780 --> 00:06:09.319
+Shiva Kumar Chary Valaboju: So, like…
+
+59
+00:06:09.320 --> 00:06:13.330
+Jay Beladiya: I'll be honest, I'm kind of lost with this project, but…
+
+60
+00:06:13.330 --> 00:06:14.410
+Shiva Kumar Chary Valaboju: Actually, I…
+
+61
+00:06:14.410 --> 00:06:16.049
+Jay Beladiya: I think you do make a good point.
+
+62
+00:06:18.050 --> 00:06:18.970
+sukanya: Yes.
+
+63
+00:06:19.870 --> 00:06:25.059
+Jennifer p: I was gonna say, quiet. Let's make sure Devia has her voice heard.
+
+64
+00:06:25.060 --> 00:06:25.530
+Jay Beladiya: Yeah, yeah.
+
+65
+00:06:25.530 --> 00:06:41.920
+sukanya: Sure, I was just listening, yes, guys. Yeah, just use the Shiva's report. Like, yeah, as Jay said, introduction and the methodologies one, we can took the last report once. So, just the analyzers, we can use the Shiva's one. I just… I'm just reading them, it was good.
+
+66
+00:06:41.920 --> 00:06:58.640
+Shiva Kumar Chary Valaboju: So, like, sorry for the interruption, and I just want to make sure, like, what I have done, so that I'll just give an overview of it, so you guys know what I have done, so that you'll get a clear idea, so… So, for that, CSV data files, I just got, like,
+
+67
+00:06:58.720 --> 00:07:12.519
+Shiva Kumar Chary Valaboju: applicants' details for that Minnesota state, I think, and we got some… from the Ramsey, data set, we got some, racist covenant records, and from…
+
+68
+00:07:12.550 --> 00:07:20.599
+Shiva Kumar Chary Valaboju: Another Ramsey data set, we have, like, 3, right? And from that, I got, like, same, Ramsey mortgage applicant's information.
+
+69
+00:07:20.780 --> 00:07:39.080
+Shiva Kumar Chary Valaboju: So, for the data biases, I just found, like, neighborhoods who had, like, racial, like, who has, like, higher property value, and, like, we found… from the dataset, I found, like, from the code, which ratio… which racist has, like.
+
+70
+00:07:39.260 --> 00:07:47.260
+Shiva Kumar Chary Valaboju: higher property values, the comparison I have done. Same, like, neighborhoods who has, like, higher incomes.
+
+71
+00:07:47.330 --> 00:08:04.930
+Shiva Kumar Chary Valaboju: the biases are, like, the racial difference, because, who has, like, who owns the land as, and, the minority versus non-combinant people. So, those biases that we have found in the data set, like, from the data.
+
+72
+00:08:04.930 --> 00:08:22.400
+Shiva Kumar Chary Valaboju: And when we do the coding thing, and from the… when it comes to algorithm bias, like, which the system made unfair is, like, Black applicants are approved, like, 60.4%, while whiter applicants… like, white people are… applications are…
+
+73
+00:08:22.490 --> 00:08:25.169
+Shiva Kumar Chary Valaboju: Processed, like, 75.6%.
+
+74
+00:08:25.400 --> 00:08:32.560
+Shiva Kumar Chary Valaboju: So, that's the gap we found, like, black people applicants are, like, lesser, and white people applicants are higher.
+
+75
+00:08:33.039 --> 00:08:36.269
+Shiva Kumar Chary Valaboju: And, the gap is also getting bigger.
+
+76
+00:08:36.370 --> 00:08:42.380
+Shiva Kumar Chary Valaboju: From, I think, so from 1980s or from 2023. That's what…
+
+77
+00:08:42.490 --> 00:08:50.180
+Shiva Kumar Chary Valaboju: From the data set by us. The algorithms also made by ours is for the white people, black people.
+
+78
+00:08:50.340 --> 00:09:02.189
+Shiva Kumar Chary Valaboju: So, like, even, Black approvals were… like, they are paying more, but the interest rates are slightly higher for those people, and the costing was different.
+
+79
+00:09:02.330 --> 00:09:04.600
+Shiva Kumar Chary Valaboju: Just a, guys, just a minute, guys.
+
+80
+00:09:05.060 --> 00:09:05.790
+Jennifer p: Bye.
+
+81
+00:09:05.790 --> 00:09:06.480
+Jay Beladiya: Yeah.
+
+82
+00:09:07.030 --> 00:09:08.259
+Shiva Kumar Chary Valaboju: I'm not convincing!
+
+83
+00:09:10.900 --> 00:09:12.229
+Shiva Kumar Chary Valaboju: They've been long enough.
+
+84
+00:09:14.130 --> 00:09:15.579
+Shiva Kumar Chary Valaboju: For 10 minutes or longer?
+
+85
+00:09:21.940 --> 00:09:24.389
+Jay Beladiya: So are we making a presentation?
+
+86
+00:09:27.090 --> 00:09:30.650
+Jennifer p: Yeah, I mean, once we've… once we've decided the report, we…
+
+87
+00:09:30.650 --> 00:09:36.569
+Jay Beladiya: So, yeah, I was just confirming if we're making the presentation or just doing it, Showing the report.
+
+88
+00:09:37.970 --> 00:09:42.989
+Jennifer p: No, I think we should make a presentation to give it an outline so we could have, like, talking points, you know what I mean?
+
+89
+00:09:42.990 --> 00:09:43.470
+Jay Beladiya: Yeah.
+
+90
+00:09:44.240 --> 00:09:45.030
+Jay Beladiya: Yeah, yeah.
+
+91
+00:09:47.280 --> 00:09:49.790
+Jennifer p: It doesn't have to be fancy, just something really…
+
+92
+00:09:49.790 --> 00:09:51.880
+Jay Beladiya: Oh, yeah, we could do it like last time, no?
+
+93
+00:09:52.810 --> 00:10:00.240
+Jay Beladiya: We can keep it simple. I think it's… it says 15 minutes, but it's probably 5 minutes, so you don't really… Yeah, I think it's fine. It's not a big slide.
+
+94
+00:10:00.410 --> 00:10:01.120
+Jennifer p: Yeah.
+
+95
+00:10:31.660 --> 00:10:34.640
+sukanya: So, are we gonna remove all of these graphs?
+
+96
+00:10:35.030 --> 00:10:36.289
+sukanya: From the replay?
+
+97
+00:10:36.580 --> 00:10:45.820
+Jay Beladiya: Maybe not all, just keep one or two, just to… so that it's not all text and a five-page of text, so… you can keep one or two…
+
+98
+00:10:45.950 --> 00:10:48.959
+Jay Beladiya: screenshots, not… I'm not saying graphs, but…
+
+99
+00:10:49.140 --> 00:10:53.690
+Jay Beladiya: Could be anything. And then we can put the graphs in the presentation.
+
+100
+00:10:54.350 --> 00:10:58.570
+Jay Beladiya: Some of them, not all of them, because, like, yeah, Shiva said, yeah…
+
+101
+00:10:59.070 --> 00:11:00.819
+Jay Beladiya: Professor is not looking for visualization.
+
+102
+00:11:00.820 --> 00:11:03.580
+sukanya: Visualization, yeah.
+
+103
+00:11:05.200 --> 00:11:09.649
+Jennifer p: I think we put somebody in there to begin with, because that was how we explored the data, like, individually.
+
+104
+00:11:09.650 --> 00:11:10.610
+Jay Beladiya: Yeah, exactly.
+
+105
+00:11:10.610 --> 00:11:13.060
+Jennifer p: Everyone was just doing graphs and stuff.
+
+106
+00:11:13.060 --> 00:11:18.239
+Jay Beladiya: I still haven't, like, trained a model for, like, proving the biases.
+
+107
+00:11:18.790 --> 00:11:19.600
+sukanya: Yes.
+
+108
+00:11:19.600 --> 00:11:28.580
+Jay Beladiya: I wasn't planning to, but I think after, what Shiva said, that he's not looking for visualizations more, so I was like, maybe I'll do it tomorrow.
+
+109
+00:11:28.960 --> 00:11:29.770
+Jay Beladiya: So…
+
+110
+00:11:33.210 --> 00:11:39.319
+Jay Beladiya: Oh, that's… that's the individual coding part, though. I think we can… we already got everything we have in the report.
+
+111
+00:11:39.840 --> 00:11:40.420
+Jennifer p: Right.
+
+112
+00:11:40.990 --> 00:11:41.539
+Jennifer p: I was like.
+
+113
+00:11:41.540 --> 00:11:42.240
+Jay Beladiya: No, no, no.
+
+114
+00:11:42.240 --> 00:11:45.400
+Jennifer p: I'm like, we kinda need to finish the report, so…
+
+115
+00:11:45.400 --> 00:11:49.590
+Jay Beladiya: Yeah. That was a… That was just the individual submission, because.
+
+116
+00:11:49.590 --> 00:11:50.060
+Jennifer p: Yeah, thank you.
+
+117
+00:11:50.060 --> 00:11:53.310
+Jay Beladiya: We already have everything that she was done everything, so we don't really have to…
+
+118
+00:11:53.310 --> 00:11:53.920
+Jennifer p: Okay.
+
+119
+00:11:54.550 --> 00:11:55.250
+sukanya: Yeah.
+
+120
+00:11:55.750 --> 00:11:56.910
+Jennifer p: Yeah, we need to check this.
+
+121
+00:11:56.910 --> 00:11:57.470
+Jay Beladiya: Yeah, that's fine.
+
+122
+00:11:57.470 --> 00:11:57.990
+Jennifer p: Yeah.
+
+123
+00:11:57.990 --> 00:12:00.910
+Jay Beladiya: That's why I clarified, that is just for individual submission.
+
+124
+00:12:00.910 --> 00:12:02.330
+Jennifer p: Okay.
+
+125
+00:12:11.670 --> 00:12:17.199
+Jay Beladiya: Oh, also, I don't… I don't know if I told you guys or not, but I will not be there on Thursday.
+
+126
+00:12:17.200 --> 00:12:17.940
+sukanya: You told.
+
+127
+00:12:17.940 --> 00:12:19.530
+Jay Beladiya: Oh, okay, okay, okay, yeah.
+
+128
+00:12:22.740 --> 00:12:25.570
+sukanya: So what… can I ask, like, what visa aborted?
+
+129
+00:12:25.870 --> 00:12:27.969
+Jay Beladiya: It's, it's,
+
+130
+00:12:28.170 --> 00:12:39.030
+Jay Beladiya: I'm graduating in, like, a month and a half, so I applied for OPT, and from December, I think, they require you to go to a USC.
+
+131
+00:12:39.030 --> 00:12:41.300
+sukanya: CIS facility for…
+
+132
+00:12:41.300 --> 00:12:41.850
+Jay Beladiya: biometrics.
+
+133
+00:12:41.850 --> 00:12:42.870
+sukanya: Fingerprint, oh yeah.
+
+134
+00:12:42.870 --> 00:12:46.840
+Jay Beladiya: Yeah, yeah, fingerprints, basically. Yes, yes. So, that's why I have to go at 4.
+
+135
+00:12:47.400 --> 00:12:53.010
+sukanya: Oh, yeah, yeah, I know. Actually, Shiva is also about to graduate, right? He told me about that.
+
+136
+00:12:53.240 --> 00:12:53.680
+Jay Beladiya: Yeah.
+
+137
+00:12:53.680 --> 00:12:55.189
+sukanya: Even he has to be in there.
+
+138
+00:12:56.200 --> 00:12:59.759
+Jay Beladiya: It's kind of a boring process, takes, like, 4 months just for…
+
+139
+00:13:00.160 --> 00:13:03.459
+Jay Beladiya: One small visa. Yes, yes. Like, bruh.
+
+140
+00:13:04.360 --> 00:13:05.600
+Jennifer p: No worries.
+
+141
+00:13:05.600 --> 00:13:06.710
+sukanya: Sweet.
+
+142
+00:13:12.040 --> 00:13:13.740
+Jay Beladiya: Is he coming back, or…
+
+143
+00:13:14.780 --> 00:13:17.329
+sukanya: I don't know. Do you want me to call him?
+
+144
+00:13:18.110 --> 00:13:18.930
+Jay Beladiya: He's probably coming.
+
+145
+00:13:18.930 --> 00:13:20.720
+Jennifer p: I mean, he's still plugged in.
+
+146
+00:13:20.720 --> 00:13:21.829
+Jay Beladiya: He did say a minute.
+
+147
+00:13:21.830 --> 00:13:23.380
+Jennifer p: It's always like…
+
+148
+00:13:25.070 --> 00:13:29.859
+Jennifer p: Where, where are you all from, anyways? I'm sorry. I'm just kind of shading because he's away.
+
+149
+00:13:30.640 --> 00:13:34.290
+Jay Beladiya: I am from… well, we're… all three of us are from India, basically.
+
+150
+00:13:34.290 --> 00:13:35.080
+Jennifer p: Okay.
+
+151
+00:13:35.080 --> 00:13:38.479
+Jay Beladiya: just from different places in India, so we don't speak the same languages.
+
+152
+00:13:38.870 --> 00:13:40.050
+Jennifer p: Okay. Alright.
+
+153
+00:13:41.120 --> 00:13:47.209
+Jennifer p: I was gonna say, like, Jay, I don't really detect an accent on you, so that's why I wasn't sure.
+
+154
+00:13:47.210 --> 00:13:48.940
+Jay Beladiya: What ac- oh, Indian accent?
+
+155
+00:13:48.940 --> 00:13:49.800
+Jennifer p: See ya!
+
+156
+00:13:49.800 --> 00:13:54.759
+Jay Beladiya: I think you can hear it in some words, but it's not that prominent, though.
+
+157
+00:13:54.760 --> 00:13:56.920
+Jennifer p: It's fairly… it's really subtle.
+
+158
+00:13:56.920 --> 00:14:07.710
+Jay Beladiya: Some of… yeah, it's some of those pronunciations, you can still hear it. Maybe that's not really accent, but, you know, you still get a hit if you hear it, that, yeah, he's Indian.
+
+159
+00:14:56.600 --> 00:14:58.370
+Jennifer p: Must have been something important.
+
+160
+00:14:58.370 --> 00:14:59.220
+Jay Beladiya: Yeah…
+
+161
+00:14:59.220 --> 00:15:01.010
+Jennifer p: Bleam his hand.
+
+162
+00:15:02.700 --> 00:15:04.840
+Jay Beladiya: Do y'all have any other classes, or…
+
+163
+00:15:06.180 --> 00:15:06.659
+Jennifer p: Yeah, blah blah.
+
+164
+00:15:06.660 --> 00:15:08.360
+Shiva Kumar Chary Valaboju: Sorry about that.
+
+165
+00:15:08.360 --> 00:15:09.749
+Jennifer p: Oh, there he is.
+
+166
+00:15:09.750 --> 00:15:11.170
+Shiva Kumar Chary Valaboju: Oh, my bad, sorry.
+
+167
+00:15:11.170 --> 00:15:12.470
+sukanya: Fine, that's fine.
+
+168
+00:15:14.180 --> 00:15:17.020
+Shiva Kumar Chary Valaboju: So, yeah, so wait, I was…
+
+169
+00:15:20.310 --> 00:15:21.750
+Shiva Kumar Chary Valaboju: Oh, shit.
+
+170
+00:15:23.010 --> 00:15:23.999
+Shiva Kumar Chary Valaboju: Yeah, so I feel like…
+
+171
+00:15:24.000 --> 00:15:28.220
+Jennifer p: Ultimately, sort of, seems like we've come to a decision, right? Right now?
+
+172
+00:15:28.220 --> 00:15:30.079
+Jay Beladiya: Yeah, I think we have, yeah.
+
+173
+00:15:30.080 --> 00:15:30.520
+Jennifer p: Yeah.
+
+174
+00:15:30.520 --> 00:15:31.250
+sukanya: We're good.
+
+175
+00:15:31.450 --> 00:15:33.630
+Jay Beladiya: At least for the report, like, well…
+
+176
+00:15:33.980 --> 00:15:38.980
+Jay Beladiya: The first introduction can be from the first report, and then the rest of it can be from his report.
+
+177
+00:15:39.500 --> 00:15:40.020
+Jennifer p: Right.
+
+178
+00:15:40.020 --> 00:15:43.930
+Jay Beladiya: And remove the grass. Keep one or two screenshots or something.
+
+179
+00:15:44.290 --> 00:15:45.000
+sukanya: Okay.
+
+180
+00:15:47.220 --> 00:15:47.719
+Shiva Kumar Chary Valaboju: Do we need?
+
+181
+00:15:47.720 --> 00:15:52.100
+Jennifer p: Or add some sort of, like, reference page or citation page, because…
+
+182
+00:15:52.550 --> 00:15:54.119
+Jay Beladiya: Does it say we have to?
+
+183
+00:15:54.760 --> 00:15:59.810
+Jennifer p: Well, in general, if you write a report, you probably should do that, if you…
+
+184
+00:15:59.810 --> 00:16:05.339
+Jay Beladiya: I think there is a reference… I definitely saw a reference section in there somewhere.
+
+185
+00:16:06.300 --> 00:16:07.660
+Jay Beladiya: Yeah, because he even mentioned…
+
+186
+00:16:07.660 --> 00:16:11.390
+Jennifer p: And he even mentioned in the instructions, like, here's some… some…
+
+187
+00:16:11.520 --> 00:16:23.369
+Jennifer p: other things, if you want to add it to citation or something. I don't remember exactly the wording on it, but… because, I mean, with Shiva's report, there's a lot of references of things that wasn't necessarily in the structure.
+
+188
+00:16:23.370 --> 00:16:27.110
+Shiva Kumar Chary Valaboju: Those are the references, I think he just gave for the dataset, I think.
+
+189
+00:16:27.820 --> 00:16:30.560
+Jennifer p: Right. Yeah, and I just…
+
+190
+00:16:30.560 --> 00:16:35.650
+Shiva Kumar Chary Valaboju: the Google, when I was searching for those Ramsey data sets, Right, but…
+
+191
+00:16:35.650 --> 00:16:42.830
+Jennifer p: Do you have references for where you got all that information about the GI Bill and things, you know what I mean? Those other kind of details that you put in there?
+
+192
+00:16:43.470 --> 00:16:44.220
+Shiva Kumar Chary Valaboju: Sorry?
+
+193
+00:16:44.990 --> 00:16:48.979
+Jennifer p: you put in a lot of details about things like GI Bill, and
+
+194
+00:16:49.670 --> 00:16:55.179
+Jennifer p: I can't remember off the top of my head, just some things, like, in the historical section, for example.
+
+195
+00:16:55.180 --> 00:17:12.939
+Shiva Kumar Chary Valaboju: Actually, I just mentioned those because I don't have any idea about them. Like, actually, if we have those details, I think, we may do some analysis greater, because the dataset which we gave for that hempin, it has some geological information, but for the Ramsey, we don't have that.
+
+196
+00:17:14.240 --> 00:17:28.980
+Shiva Kumar Chary Valaboju: Because we don't have the full data set, so I think those are the limitations also I just mentioned for the Ramsey. We don't have the complete data set, we don't have all these zip codes, or the PIN numbers, or the census track IDs.
+
+197
+00:17:29.760 --> 00:17:46.379
+Shiva Kumar Chary Valaboju: Because for the dataset that we used for the professors gave, like, merge dataset, right? It has, like, all those data sets, but he said doing, like, Ramsey extension, but whenever doing, like, the same process for this dataset, these are the fields we are missing.
+
+198
+00:17:50.780 --> 00:17:54.319
+Jay Beladiya: So… Are we adding the reference section?
+
+199
+00:17:55.750 --> 00:17:58.599
+Shiva Kumar Chary Valaboju: I think it's better to do those reference actions.
+
+200
+00:17:58.950 --> 00:18:03.799
+Jay Beladiya: I think there is… I definitely saw a reference section in their report somewhere.
+
+201
+00:18:03.980 --> 00:18:12.110
+Jay Beladiya: Now, I've read, like, 2 or 3 different reports for different subjects, so I'm not sure if it's in this one, or was it in another one?
+
+202
+00:18:12.330 --> 00:18:17.330
+Jay Beladiya: But I definitely saw it, I think so. It was in Shua's report, I think, at the end.
+
+203
+00:18:18.020 --> 00:18:23.190
+Shiva Kumar Chary Valaboju: Yeah, that's what I just added, but I didn't find any references in the report that you guys did.
+
+204
+00:18:23.340 --> 00:18:23.780
+Jennifer p: Oh, are you.
+
+205
+00:18:23.780 --> 00:18:25.460
+Jay Beladiya: I mean, it's basically… I just googled.
+
+206
+00:18:25.460 --> 00:18:26.579
+Jennifer p: Sorry, I'm sorry.
+
+207
+00:18:26.900 --> 00:18:28.890
+Jay Beladiya: I just googled it, so it's like…
+
+208
+00:18:28.890 --> 00:18:29.400
+Shiva Kumar Chary Valaboju: Yay.
+
+209
+00:18:29.400 --> 00:18:34.139
+Jay Beladiya: Like, I just wrote the introduction and the… the methodology, so…
+
+210
+00:18:34.400 --> 00:18:47.659
+Jay Beladiya: That's basically, like, history and stuff, so I just googled it, and then the first thing that popped up… it was not even a website, the AI thing that pops up. That's literally it. I just read that, and I was like, okay, I think this sounds good.
+
+211
+00:18:48.020 --> 00:18:50.039
+Jay Beladiya: I just wrote in my own…
+
+212
+00:18:50.180 --> 00:18:54.150
+Jennifer p: No, I see the references section at the bottom now, too. I'm sorry, I didn't see that earlier.
+
+213
+00:18:54.150 --> 00:18:54.830
+Jay Beladiya: Yeah.
+
+214
+00:18:56.490 --> 00:18:57.150
+Jennifer p: Okay, that's good.
+
+215
+00:18:58.520 --> 00:18:59.620
+sukanya: Guess what?
+
+216
+00:19:00.090 --> 00:19:09.190
+Jennifer p: Let's make sure that we include on the report, though, as we kind of last-minute did on the last report, that we… that we used AI.
+
+217
+00:19:09.190 --> 00:19:10.970
+Jay Beladiya: I think we already mentioned it, though.
+
+218
+00:19:11.210 --> 00:19:12.609
+Jennifer p: Yeah, at the top.
+
+219
+00:19:12.610 --> 00:19:12.970
+Jay Beladiya: Yeah.
+
+220
+00:19:12.970 --> 00:19:19.980
+Jennifer p: But when we merge these together, like, you know, when we cut it out to our final report, let's make sure we don't drop that.
+
+221
+00:19:19.980 --> 00:19:23.510
+Jay Beladiya: Yeah, yeah, definitely. I think that's… that has to stay.
+
+222
+00:19:23.760 --> 00:19:24.510
+Jennifer p: Yeah.
+
+223
+00:19:25.960 --> 00:19:29.150
+Jay Beladiya: So, I think this is it, right? Also…
+
+224
+00:19:29.590 --> 00:19:34.759
+Jay Beladiya: Don't forget your, individual contribution thing, because I kind of forgot it last time.
+
+225
+00:19:34.760 --> 00:19:36.310
+Jennifer p: Oh no!
+
+226
+00:19:36.310 --> 00:19:40.100
+Jay Beladiya: I did it late. I mean, I did, email him, and he said it's okay, but yeah.
+
+227
+00:19:40.100 --> 00:19:41.000
+Jennifer p: Okay.
+
+228
+00:19:41.000 --> 00:19:43.530
+Jay Beladiya: I was late, so I hope y'all don't forget.
+
+229
+00:19:43.770 --> 00:19:47.110
+Jennifer p: Yes.
+
+230
+00:19:47.110 --> 00:19:58.250
+Shiva Kumar Chary Valaboju: one more note that, you just guys do the… who's doing the final report? Like, if Jay's do the presentation, because I'm, like, busy tomorrow, I can't do it on my side, so…
+
+231
+00:19:58.390 --> 00:20:02.510
+Shiva Kumar Chary Valaboju: I just gave it to Jay if he does the… presentation.
+
+232
+00:20:02.890 --> 00:20:04.150
+Jay Beladiya: I don't mind, yeah, I'll do it.
+
+233
+00:20:04.150 --> 00:20:10.099
+Shiva Kumar Chary Valaboju: Yeah, so, like, I just, took a lot of time for doing this stuff, so…
+
+234
+00:20:10.380 --> 00:20:13.889
+Shiva Kumar Chary Valaboju: I think I have, like, other stuffs to do, so I can't do the presentation.
+
+235
+00:20:13.890 --> 00:20:14.999
+Jay Beladiya: It's fun.
+
+236
+00:20:15.000 --> 00:20:23.409
+Shiva Kumar Chary Valaboju: Yeah, so you can have that presentation, and if you guys, like, take your time, you and Divya, Jennifer and Divya, make a final report.
+
+237
+00:20:23.410 --> 00:20:25.789
+sukanya: Yeah, we'll do it now.
+
+238
+00:20:25.790 --> 00:20:26.200
+Shiva Kumar Chary Valaboju: Yeah.
+
+239
+00:20:26.200 --> 00:20:27.409
+sukanya: Is it okay to fly?
+
+240
+00:20:27.410 --> 00:20:28.040
+Shiva Kumar Chary Valaboju: Actually…
+
+241
+00:20:28.940 --> 00:20:30.339
+sukanya: Yeah, Africa.
+
+242
+00:20:30.340 --> 00:20:37.130
+Jennifer p: You mean, like, yeah, just put this one together and submit it, you mean? Like, to cut what we talked about and submit it?
+
+243
+00:20:38.320 --> 00:20:39.640
+Shiva Kumar Chary Valaboju: Yeah, like, the final report that.
+
+244
+00:20:39.640 --> 00:20:40.610
+sukanya: Like, final report.
+
+245
+00:20:40.610 --> 00:20:41.080
+Shiva Kumar Chary Valaboju: And one.
+
+246
+00:20:41.080 --> 00:20:41.670
+sukanya: to.
+
+247
+00:20:42.180 --> 00:20:44.860
+Shiva Kumar Chary Valaboju: So you two guys will do that, right?
+
+248
+00:20:45.440 --> 00:20:46.989
+sukanya: Yeah, yeah, we can do it.
+
+249
+00:20:46.990 --> 00:20:50.569
+Jay Beladiya: So, are we… are y'all doing it now, and then submitting…
+
+250
+00:20:50.870 --> 00:20:53.959
+Jay Beladiya: Or is it, like, we're gonna wait till tomorrow and then submit?
+
+251
+00:20:53.960 --> 00:20:57.480
+Jennifer p: No, I mean, I think we should just do it now and submit it, and…
+
+252
+00:20:57.480 --> 00:21:00.950
+Jay Beladiya: Okay, yeah, well, that's up to you guys. Y'all can… just give me a hint.
+
+253
+00:21:00.950 --> 00:21:01.989
+Jennifer p: Yeah, that's okay.
+
+254
+00:21:03.110 --> 00:21:07.220
+Jay Beladiya: I'll probably start working on the presentation tomorrow morning.
+
+255
+00:21:07.680 --> 00:21:08.060
+Jennifer p: Okay.
+
+256
+00:21:08.060 --> 00:21:11.570
+Jay Beladiya: But… I'll see what time I go to bed, so…
+
+257
+00:21:11.990 --> 00:21:23.520
+Shiva Kumar Chary Valaboju: So, like, is everything is okay in my code, or, you guys have any questions in that, so I can just tell you before you do the final report, or the final.
+
+258
+00:21:23.520 --> 00:21:27.040
+Jay Beladiya: In the, in the, in the… Report.
+
+259
+00:21:29.000 --> 00:21:30.149
+Shiva Kumar Chary Valaboju: So, I guess… I don't have a question.
+
+260
+00:21:30.150 --> 00:21:31.750
+Jay Beladiya: I was just asking.
+
+261
+00:21:32.660 --> 00:21:47.439
+Shiva Kumar Chary Valaboju: No, like, I just want making sure, because, as, what is that? Jennifer says that, like, let's keep some graphs. So, I just made, like, a summary dashboard, for that, data bias, analysis and the algorithm bias analysis.
+
+262
+00:21:47.440 --> 00:21:47.910
+Jay Beladiya: Yeah.
+
+263
+00:21:47.910 --> 00:21:52.219
+Shiva Kumar Chary Valaboju: And I just made, like, a final graph which has, like, 1, 2, 3, 4, 5, 6 graphs.
+
+264
+00:21:53.400 --> 00:21:56.520
+Shiva Kumar Chary Valaboju: If you guys see at the last, it would be, like, 1.
+
+265
+00:21:57.080 --> 00:21:57.940
+Jennifer p: Oh, in your code?
+
+266
+00:21:58.590 --> 00:22:02.379
+Shiva Kumar Chary Valaboju: Yeah, in my code, if it's gonna be useful, because…
+
+267
+00:22:02.380 --> 00:22:02.989
+Jay Beladiya: Yeah, I saw it.
+
+268
+00:22:02.990 --> 00:22:05.420
+Shiva Kumar Chary Valaboju: Everything covered in those, so…
+
+269
+00:22:05.610 --> 00:22:06.350
+Jennifer p: Okay.
+
+270
+00:22:06.670 --> 00:22:09.100
+Jay Beladiya: Do you want to put that in the presentation?
+
+271
+00:22:09.760 --> 00:22:16.869
+Shiva Kumar Chary Valaboju: I think that's, better for us for report, and we'll do some analysis of all of those in the…
+
+272
+00:22:17.170 --> 00:22:26.299
+Jay Beladiya: I was thinking, for, like, I'm gonna keep the graphs, too, at a minimum in the presentation. I would probably write a few bullet points for…
+
+273
+00:22:26.300 --> 00:22:26.780
+Shiva Kumar Chary Valaboju: Yeah.
+
+274
+00:22:26.780 --> 00:22:30.009
+Jay Beladiya: Each of the sections… not sections, but…
+
+275
+00:22:31.400 --> 00:22:33.960
+Jay Beladiya: The analysis, each other set analysis.
+
+276
+00:22:35.270 --> 00:22:39.000
+Shiva Kumar Chary Valaboju: So, like, you can just keep the presentation simple, and just let.
+
+277
+00:22:39.000 --> 00:22:39.380
+Jay Beladiya: Yeah.
+
+278
+00:22:39.380 --> 00:22:42.269
+Shiva Kumar Chary Valaboju: That just makes some little points.
+
+279
+00:22:42.430 --> 00:22:48.370
+Shiva Kumar Chary Valaboju: And, that's it, maybe because we have, like, less time for us to say, right?
+
+280
+00:22:49.250 --> 00:22:54.589
+Jay Beladiya: I think we only have 5 minutes, so I'll keep it… I'll do 3 main points, that is the…
+
+281
+00:22:54.590 --> 00:22:55.040
+Shiva Kumar Chary Valaboju: Boom.
+
+282
+00:22:55.040 --> 00:23:01.759
+Jay Beladiya: the data bias analysis, the algorithm bias analysis, and the county comparison. I think that's… those three are the most important.
+
+283
+00:23:01.760 --> 00:23:02.200
+Shiva Kumar Chary Valaboju: employer.
+
+284
+00:23:02.500 --> 00:23:03.250
+Jay Beladiya: Excellent.
+
+285
+00:23:03.250 --> 00:23:04.799
+sukanya: Yeah, do what I think.
+
+286
+00:23:05.400 --> 00:23:07.010
+Jay Beladiya: Focus on those on the presentation.
+
+287
+00:23:07.010 --> 00:23:07.930
+Shiva Kumar Chary Valaboju: So…
+
+288
+00:23:08.160 --> 00:23:25.110
+Shiva Kumar Chary Valaboju: I, like, I just have, like, from my code, I just found it, like, like, 3 points or some points, so, what are you guys gonna keep it, like, what do you guys understood, so that I'll just make a note of it before making presentation.
+
+289
+00:23:28.270 --> 00:23:28.810
+Shiva Kumar Chary Valaboju: Right.
+
+290
+00:23:28.810 --> 00:23:30.200
+Jay Beladiya: Corey, what did you ask?
+
+291
+00:23:30.200 --> 00:23:33.280
+Shiva Kumar Chary Valaboju: Like, what we have found from this group project.
+
+292
+00:23:33.720 --> 00:23:45.950
+Shiva Kumar Chary Valaboju: So, like, as a conclusion. So, like, I have some points for me, I just want to hear from you guys, so, we'll mix it up and say that, oh, it's okay, this is all what we have founded from this group project in the final.
+
+293
+00:23:49.830 --> 00:23:51.020
+Jay Beladiya: Okay, well…
+
+294
+00:23:51.020 --> 00:23:57.700
+Shiva Kumar Chary Valaboju: It means that, after doing this project, what you guys found from your own sites? That's what I'm asking.
+
+295
+00:23:59.190 --> 00:24:01.250
+Jay Beladiya: Isn't that for individual, though?
+
+296
+00:24:01.250 --> 00:24:09.570
+Shiva Kumar Chary Valaboju: No, for the group one, I'm asking, like, if anyone got the chance for the presentation, so, like, we can say that.
+
+297
+00:24:09.780 --> 00:24:10.739
+Jay Beladiya: Oh, okay, okay.
+
+298
+00:24:10.740 --> 00:24:15.549
+Shiva Kumar Chary Valaboju: I don't think so we have, like, much time on Thursday to talk about this all, so…
+
+299
+00:24:15.840 --> 00:24:17.260
+Shiva Kumar Chary Valaboju: I just wanna make sure.
+
+300
+00:24:21.040 --> 00:24:22.680
+Shiva Kumar Chary Valaboju: Well, I think it's a few findings.
+
+301
+00:24:22.680 --> 00:24:40.699
+Jennifer p: It's clear that there's continued, you know, from historical racial covenants, there's continued effects from it, with, with, you know, the higher covenant density areas have higher property values and, also lower
+
+302
+00:24:40.850 --> 00:24:45.669
+Jennifer p: racial… profiles, I mean, lower, lower minorities.
+
+303
+00:24:46.120 --> 00:24:59.440
+Jennifer p: So I… I sense that there's continued, you know, after-effects from… even… even though the covenants are outlawed, some of those, after-effects still remain.
+
+304
+00:25:03.020 --> 00:25:03.940
+Shiva Kumar Chary Valaboju: Okay.
+
+305
+00:25:06.050 --> 00:25:06.730
+Jay Beladiya: Yeah.
+
+306
+00:25:07.420 --> 00:25:09.780
+Jay Beladiya: So, is that… is that all?
+
+307
+00:25:10.740 --> 00:25:13.640
+Shiva Kumar Chary Valaboju: Oh yeah, it's okay, so, yeah.
+
+308
+00:25:14.440 --> 00:25:19.780
+Jay Beladiya: I mean, yeah, I don't really have anything to add, to be honest.
+
+309
+00:25:21.030 --> 00:25:29.529
+Shiva Kumar Chary Valaboju: Yeah, so, from my side, I just had made some notes so that I just want to make sure. So, in this St. Paul
+
+310
+00:25:29.720 --> 00:25:35.409
+Shiva Kumar Chary Valaboju: And, in the related states, we have, like, 5,528
+
+311
+00:25:35.650 --> 00:25:40.340
+Shiva Kumar Chary Valaboju: governance, like, the holders, applicants from 1940s.
+
+312
+00:25:40.990 --> 00:25:47.989
+Shiva Kumar Chary Valaboju: And, 2,304 in a single decade. Like, I just found these numbers.
+
+313
+00:25:48.260 --> 00:25:59.989
+Shiva Kumar Chary Valaboju: And, I just already said that Black African's approval was, like, 50.6%, and the white approvals was, like, 67.5%. So, we just found this gap, and
+
+314
+00:26:00.470 --> 00:26:06.439
+Shiva Kumar Chary Valaboju: We have, like, in the Ramsey, the gap is, like, 19.8%.
+
+315
+00:26:06.580 --> 00:26:13.710
+Shiva Kumar Chary Valaboju: And, In the urban areas, it's, like, 12.8%, so… Yeah.
+
+316
+00:26:14.970 --> 00:26:15.660
+Jay Beladiya: Okay.
+
+317
+00:26:16.660 --> 00:26:18.020
+Shiva Kumar Chary Valaboju: Yeah, so, yeah.
+
+318
+00:26:18.020 --> 00:26:18.780
+Jay Beladiya: That's good.
+
+319
+00:26:18.780 --> 00:26:20.980
+Shiva Kumar Chary Valaboju: Yeah, it's okay. So…
+
+320
+00:26:21.200 --> 00:26:30.180
+Shiva Kumar Chary Valaboju: you just go through my report, and you can just remove the stuff, which is, like, good for that. You can just keep it, which is good.
+
+321
+00:26:31.460 --> 00:26:33.659
+Shiva Kumar Chary Valaboju: Yeah, it's up to you guys, then.
+
+322
+00:26:35.190 --> 00:26:35.840
+Jay Beladiya: Okay.
+
+323
+00:26:35.840 --> 00:26:36.590
+sukanya: Okay.
+
+324
+00:26:36.590 --> 00:26:37.310
+Shiva Kumar Chary Valaboju: Like, we're just making…
+
+325
+00:26:37.310 --> 00:26:37.780
+Jay Beladiya: It is.
+
+326
+00:26:37.780 --> 00:26:40.200
+Shiva Kumar Chary Valaboju: It calls when professors ask us.
+
+327
+00:26:40.360 --> 00:26:46.079
+Shiva Kumar Chary Valaboju: I was like, I don't know what should we say, what we should say. It was, like, so stuffed.
+
+328
+00:26:50.830 --> 00:26:51.550
+Shiva Kumar Chary Valaboju: Right?
+
+329
+00:26:51.970 --> 00:26:52.340
+Jay Beladiya: Yeah.
+
+330
+00:26:52.340 --> 00:26:53.630
+Shiva Kumar Chary Valaboju: That's it from my side.
+
+331
+00:26:57.120 --> 00:27:06.250
+Jay Beladiya: So… Jennifer and… Divya are making the report, and then I'll do the presentation.
+
+332
+00:27:06.250 --> 00:27:07.420
+Shiva Kumar Chary Valaboju: Yeah, it's okay, Jack.
+
+333
+00:27:07.420 --> 00:27:07.940
+Jay Beladiya: Cool.
+
+334
+00:27:08.190 --> 00:27:09.410
+Jay Beladiya: Yeah. Okay.
+
+335
+00:27:09.680 --> 00:27:12.709
+Jay Beladiya: So, well, good luck, guys, for Thursday.
+
+336
+00:27:13.450 --> 00:27:14.010
+sukanya: Okay.
+
+337
+00:27:14.010 --> 00:27:14.870
+Shiva Kumar Chary Valaboju: That's alright.
+
+338
+00:27:14.890 --> 00:27:16.300
+Jennifer p: Hi, everyone.
+
+339
+00:27:16.300 --> 00:27:17.460
+Jay Beladiya: Well, yeah.
+
+340
+00:27:18.630 --> 00:27:24.559
+Shiva Kumar Chary Valaboju: And, there was, like… yeah, I'm just offering the record, and I have, like, a quick question for Jay.
+
